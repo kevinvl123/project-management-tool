@@ -1,0 +1,11 @@
+c:\users\kv712s\documents\visual studio 2012\Projects\ProjectManagementTool\ProjectManagementTool\bin\Debug\ProjectManagementTool.exe
+c:\users\kv712s\documents\visual studio 2012\Projects\ProjectManagementTool\ProjectManagementTool\bin\Debug\ProjectManagementTool.pdb
+c:\users\kv712s\documents\visual studio 2012\Projects\ProjectManagementTool\ProjectManagementTool\obj\Debug\ProjectManagementTool.csprojResolveAssemblyReference.cache
+c:\users\kv712s\documents\visual studio 2012\Projects\ProjectManagementTool\ProjectManagementTool\obj\Debug\ProjectManagementTool.Form1.resources
+c:\users\kv712s\documents\visual studio 2012\Projects\ProjectManagementTool\ProjectManagementTool\obj\Debug\ProjectManagementTool.InputDialog.resources
+c:\users\kv712s\documents\visual studio 2012\Projects\ProjectManagementTool\ProjectManagementTool\obj\Debug\ProjectManagementTool.Properties.Resources.resources
+c:\users\kv712s\documents\visual studio 2012\Projects\ProjectManagementTool\ProjectManagementTool\obj\Debug\ProjectManagementTool.csproj.GenerateResource.Cache
+c:\users\kv712s\documents\visual studio 2012\Projects\ProjectManagementTool\ProjectManagementTool\obj\Debug\ProjectManagementTool.exe
+c:\users\kv712s\documents\visual studio 2012\Projects\ProjectManagementTool\ProjectManagementTool\obj\Debug\ProjectManagementTool.pdb
+c:\users\kv712s\documents\visual studio 2012\Projects\ProjectManagementTool\ProjectManagementTool\bin\Debug\Newtonsoft.Json.dll
+c:\users\kv712s\documents\visual studio 2012\Projects\ProjectManagementTool\ProjectManagementTool\bin\Debug\Newtonsoft.Json.xml
